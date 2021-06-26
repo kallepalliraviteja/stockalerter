@@ -1,0 +1,768 @@
+{
+"Companies":[
+    {
+      "Company ": "Amara Raja batteries",
+      "Industry": "Auto Ancillaries",
+      "Accessurl": "https://www.screener.in/company/AMARAJABAT/",
+      "Id": "1315",
+      "ratiourl": "https://www.screener.in/api/company/1315/quick_ratios/"
+    },
+    {
+      "Company ": "Axis bankt ltd",
+      "Industry": "Banks",
+      "Accessurl": "https://www.screener.in/company/AXISBANK/consolidated/",
+      "Id": "6594837",
+      "ratiourl": "https://www.screener.in/api/company/6594837/quick_ratios/"
+    },    
+    {
+      "Company ": "Baja Holdings & Investments Ltd",
+      "Industry": "Finance",
+      "Accessurl": "https://www.screener.in/company/BAJAJHLDNG/consolidated/",
+      "Id": "6594854",
+      "ratiourl": "https://www.screener.in/api/company/6594854/quick_ratios/"
+    },
+    {
+      "Company ": "Balkrisha Industries",
+      "Industry": "Auto Ancillaries",
+      "Accessurl": "https://www.screener.in/company/BALKRISIND/consolidated/",
+      "Id": "6594860",
+      "ratiourl": "https://www.screener.in/api/company/6594860/quick_ratios/"
+    },
+    {
+      "Company ": "bosch",
+      "Industry": "Auto Ancillaries",
+      "Accessurl": "https://www.screener.in/company/BOSCHLTD/",
+      "Id": "58",
+      "ratiourl": "https://www.screener.in/api/company/58/quick_ratios/"
+    },
+    {
+      "Company ": "CDSL",
+      "Industry": "Capital Market",
+      "Accessurl": "https://www.screener.in/company/CDSL/consolidated/",
+      "Id": "15476674",
+      "ratiourl": "https://www.screener.in/api/company/15476674/quick_ratios/"
+    },
+    {
+      "Company ": "Exide Industries",
+      "Industry": "Auto Ancillaries",
+      "Accessurl": "https://www.screener.in/company/EXIDEIND/consolidated/",
+      "Id": "6595820",
+      "ratiourl": "https://www.screener.in/api/company/6595820/quick_ratios/"
+    },
+    {
+      "Company ": "HDFC",
+      "Industry": "BANK",
+      "Accessurl": "https://www.screener.in/company/HDFCBANK/consolidated/",
+      "Id": "6596237",
+      "ratiourl": "https://www.screener.in/api/company/6596237/quick_ratios/"
+    },
+    {
+      "Company ": "Hero Moto Corp",
+      "Industry": "Auto",
+      "Accessurl": "https://www.screener.in/company/HEROMOTOCO/consolidated/",
+      "Id": "6596243",
+      "ratiourl": "https://www.screener.in/api/company/6596243/quick_ratios/"
+    },  
+    {
+      "Company ": "HCL Technologies Ltd",
+      "Industry": "Software",
+      "Accessurl": "https://www.screener.in/company/HCLTECH/consolidated/",
+      "Id": "6596236",
+      "ratiourl": "https://www.screener.in/api/company/6596236/quick_ratios/"
+    },    
+    {
+      "Company ": "ICRA Ltd",
+      "Industry": "Banks",
+      "Accessurl": "https://www.screener.in/company/ICICIBANK/consolidated/",
+      "Id": "6596413",
+      "ratiourl": "https://www.screener.in/api/company/6596413/quick_ratios/"
+    },     
+    {
+      "Company ": "ICICI Ltd",
+      "Industry": "Banks",
+      "Accessurl": "https://www.screener.in/company/ICICIBANK/consolidated/",
+      "Id": "6596413",
+      "ratiourl": "https://www.screener.in/api/company/6596413/quick_ratios/"
+    },    
+    {
+      "Company ": "Indian Energy Exchange Limited",
+      "Industry": "Capital Markets",
+      "Accessurl": "https://www.screener.in/company/IEX/",
+      "Id": "6596626",
+      "ratiourl": "https://www.screener.in/api/company/17408739/quick_ratios/"
+    },
+    {
+      "Company ": "ITC Ltd",
+      "Industry": "Consumer Non Durables",
+      "Accessurl": "https://www.screener.in/company/ITC/consolidated/",
+      "Id": "6596626",
+      "ratiourl": "https://www.screener.in/api/company/6596626/quick_ratios/"
+    },
+    {
+      "Company ": "Mphasis Ltd",
+      "Industry": "Software",
+      "Accessurl": "https://www.screener.in/company/MPHASIS/consolidated/",
+      "Id": "6597441",
+      "ratiourl": "https://www.screener.in/api/company/6597441/quick_ratios/"
+    },
+        
+    {
+      "Company ": "mothersun sumi systems",
+      "Industry": "Auto Ancillaries",
+      "Accessurl": "https://www.screener.in/company/MOTHERSUMI/consolidated/",
+      "Id": "6597438",
+      "ratiourl": "https://www.screener.in/api/company/6597438/quick_ratios/"
+    },
+    {
+      "Company ": "Oracle finserve",
+      "Industry": "Software",
+      "Accessurl": "https://www.screener.in/company/OFSS/consolidated/",
+      "Id": "6597815",
+      "ratiourl": "ttps://www.screener.in/api/company/6597815/quick_ratios/"
+    },
+    {
+      "Company ": "Persistent Systems",
+      "Industry": "Software",
+      "Accessurl": "https://www.screener.in/company/PERSISTENT/consolidated/",
+      "Id": "6597853",
+      "ratiourl": "https://www.screener.in/api/company/6597853/quick_ratios/"
+    },
+    {
+      "Company ": "Suprajit Engineering Ltd",
+      "Industry": "Auto Ancillaries",
+      "Accessurl": "https://www.screener.in/company/SUPRAJIT/consolidated/",
+      "Id": "6599051",
+      "ratiourl": "https://www.screener.in/api/company/6599051/quick_ratios/"
+    },
+    {
+      "Company ": "WABCO india",
+      "Industry": "Auto Ancillaries",
+      "Accessurl": "https://www.screener.in/company/WABCOINDIA/",
+      "Id": "86",
+      "ratiourl": "https://www.screener.in/api/company/86/quick_ratios/"
+    },
+    {
+      "Company ": "eicher motors",
+      "Industry": "Automobiles - Motorcycles / Mopeds",
+      "Accessurl": "https://www.screener.in/company/EICHERMOT/consolidated/",
+      "Id": "6595636",
+      "ratiourl": "https://www.screener.in/api/company/6595636/quick_ratios/"
+    },
+    {
+      "Company ": "M&M",
+      "Industry": "Automobiles - Passenger Cars",
+      "Accessurl": "https://www.screener.in/company/M&M/consolidated/",
+      "Id": "6597229",
+      "ratiourl": "https://www.screener.in/api/company/6597229/quick_ratios/"
+    },
+    {
+      "Company ": "maruti suzuki",
+      "Industry": "Automobiles - Passenger Cars",
+      "Accessurl": "https://www.screener.in/company/MARUTI/consolidated/",
+      "Id": "6597252",
+      "ratiourl": "https://www.screener.in/api/company/6597252/quick_ratios/"
+    },
+    {
+      "Company ": "bajaj auto",
+      "Industry": "Automobiles - Scooters And 3 - Wheelers",
+      "Accessurl": "https://www.screener.in/company/BAJAJ-AUTO/consolidated/",
+      "Id": "6594849",
+      "ratiourl": "https://www.screener.in/api/company/6594849/quick_ratios/"
+    },
+    {
+      "Company ": "Axis Bank",
+      "Industry": "Banks - Private Sector",
+      "Accessurl": "https://www.screener.in/company/AXISBANK/consolidated/",
+      "Id": "6594837",
+      "ratiourl": "https://www.screener.in/api/company/6594837/quick_ratios/"
+    },
+    {
+      "Company ": "city union banks",
+      "Industry": "Banks - Private Sector",
+      "Accessurl": "https://www.screener.in/company/CUB/",
+      "Id": "1797",
+      "ratiourl": "https://www.screener.in/api/company/1797/quick_ratios/"
+    },
+    {
+      "Company ": "HDFC Bank",
+      "Industry": "Banks - Private Sector",
+      "Accessurl": "https://www.screener.in/company/HDFCBANK/consolidated/",
+      "Id": "6596237",
+      "ratiourl": "https://www.screener.in/api/company/6596237/quick_ratios/"
+    },
+    {
+      "Company ": "ICICI Bank",
+      "Industry": "Banks - Private Sector",
+      "Accessurl": "https://www.screener.in/company/ICICIBANK/consolidated/",
+      "Id": "6596413",
+      "ratiourl": "https://www.screener.in/api/company/6596413/quick_ratios/"
+    },
+    {
+      "Company ": "Induslnd Bank",
+      "Industry": "Banks - Private Sector",
+      "Accessurl": "https://www.screener.in/company/INDUSINDBK/",
+      "Id": "1788",
+      "ratiourl": "https://www.screener.in/api/company/1788/quick_ratios/"
+    },
+    {
+      "Company ": "Kotak Mahindra Bank",
+      "Industry": "Banks - Private Sector",
+      "Accessurl": "https://www.screener.in/company/KOTAKBANK/consolidated/",
+      "Id": "6597025",
+      "ratiourl": "https://www.screener.in/api/company/6597025/quick_ratios/"
+    },
+    {
+      "Company ": "sbi",
+      "Industry": "Banks - Public Sector",
+      "Accessurl": "https://www.screener.in/company/SBIN/consolidated/",
+      "Id": "6598877",
+      "ratiourl": "https://www.screener.in/api/company/6598877/quick_ratios/"
+    },
+    {
+      "Company ": "Schaffler India",
+      "Industry": "Bearings",
+      "Accessurl": "https://www.screener.in/company/SCHAEFFLER/",
+      "Id": "2284",
+      "ratiourl": "https://www.screener.in/api/company/2284/quick_ratios/"
+    },
+    {
+      "Company ": "united spirits",
+      "Industry": "Breweries & Distilleries",
+      "Accessurl": "https://www.screener.in/company/MCDOWELL-N/consolidated/",
+      "Id": "6599459",
+      "ratiourl": "https://www.screener.in/api/company/6599459/quick_ratios/"
+    },
+    {
+      "Company ": "AIA Engineering",
+      "Industry": "Castings & Forgings",
+      "Accessurl": "https://www.screener.in/company/AIAENG/consolidated/",
+      "Id": "6594448",
+      "ratiourl": "https://www.screener.in/api/company/6594448/quick_ratios/"
+    },
+    {
+      "Company ": "ACC",
+      "Industry": "Cement - North India",
+      "Accessurl": "https://www.screener.in/company/ACC/consolidated/",
+      "Id": "6594416",
+      "ratiourl": "https://www.screener.in/api/company/6594416/quick_ratios/"
+    },
+    {
+      "Company ": "Ambuja Cements",
+      "Industry": "Cement - North India",
+      "Accessurl": "https://www.screener.in/company/AMBUJACEM/consolidated/",
+      "Id": "6594611",
+      "ratiourl": "https://www.screener.in/api/company/6594611/quick_ratios/"
+    },
+    {
+      "Company ": "Shree Cements",
+      "Industry": "Cement - North India",
+      "Accessurl": "https://www.screener.in/company/SHREECEM/consolidated/",
+      "Id": "6598646",
+      "ratiourl": "https://www.screener.in/api/company/6598646/quick_ratios/"
+    },
+    {
+      "Company ": "The Ramco Cementes",
+      "Industry": "Cement - South India",
+      "Accessurl": "https://www.screener.in/company/RAMCOCEM/consolidated/",
+      "Id": "6597219",
+      "ratiourl": "https://www.screener.in/api/company/6597219/quick_ratios/"
+    },
+    {
+      "Company ": "Oriental Chemicals",
+      "Industry": "Chemicals",
+      "Accessurl": "https://www.screener.in/company/OCCL/consolidated/",
+      "Id": "6597824",
+      "ratiourl": "https://www.screener.in/api/company/6597824/quick_ratios/"
+    },
+    {
+      "Company ": "pidilite industries",
+      "Industry": "Chemicals",
+      "Accessurl": "https://www.screener.in/company/PIDILITIND/consolidated/",
+      "Id": "6597863",
+      "ratiourl": "https://www.screener.in/api/company/6597863/quick_ratios/"
+    },
+    {
+      "Company ": "ITC",
+      "Industry": "Cigarettes",
+      "Accessurl": "https://www.screener.in/company/ITC/consolidated/",
+      "Id": "6596626",
+      "ratiourl": "https://www.screener.in/api/company/6596626/quick_ratios/"
+    },
+    {
+      "Company ": "infosys",
+      "Industry": "Computers - Software - Large",
+      "Accessurl": "https://www.screener.in/company/INFY/consolidated/",
+      "Id": "6596470",
+      "ratiourl": "https://www.screener.in/api/company/6596470/quick_ratios/"
+    },
+    {
+      "Company ": "TCS",
+      "Industry": "Computers - Software - Large",
+      "Accessurl": "https://www.screener.in/company/TCS/consolidated/",
+      "Id": "6599230",
+      "ratiourl": "https://www.screener.in/api/company/6599230/quick_ratios/"
+    },
+    {
+      "Company ": "cyient ltd-b",
+      "Industry": "Computers - Software - Medium / Small",
+      "Accessurl": "https://www.screener.in/company/CYIENT/consolidated/",
+      "Id": "6596471",
+      "ratiourl": "https://www.screener.in/api/company/6596471/quick_ratios/"
+    },
+    {
+      "Company ": "Oracle",
+      "Industry": "Computers - Software - Medium / Small",
+      "Accessurl": "https://www.screener.in/company/OFSS/consolidated/",
+      "Id": "6597815",
+      "ratiourl": "https://www.screener.in/api/company/6597815/quick_ratios/"
+    },
+    {
+      "Company ": "Titan Company",
+      "Industry": "Diamond Cutting / Jewellery",
+      "Accessurl": "https://www.screener.in/company/TITAN/consolidated/",
+      "Id": "6599273",
+      "ratiourl": "https://www.screener.in/api/company/6599273/quick_ratios/"
+    },
+    {
+      "Company ": "Quess Corp",
+      "Industry": "Diversified - Large",
+      "Accessurl": "https://www.screener.in/company/QUESS/consolidated/",
+      "Id": "10182756",
+      "ratiourl": "https://www.screener.in/api/company/10182756/quick_ratios/"
+    },
+    {
+      "Company ": "Voltas",
+      "Industry": "Diversified - Mega",
+      "Accessurl": "https://www.screener.in/company/VOLTAS/consolidated/",
+      "Id": "6599658",
+      "ratiourl": "https://www.screener.in/api/company/6599658/quick_ratios/"
+    },
+    {
+      "Company ": "Symphoney Ltd",
+      "Industry": "Domestic Appliances",
+      "Accessurl": "https://www.screener.in/company/SYMPHONY/consolidated/",
+      "Id": "6599076",
+      "ratiourl": "https://www.screener.in/api/company/6599076/quick_ratios/"
+    },
+    {
+      "Company ": "ttk prestige",
+      "Industry": "Domestic Appliances",
+      "Accessurl": "https://www.screener.in/company/TTKPRESTIG/",
+      "Id": "1085",
+      "ratiourl": "https://www.screener.in/api/company/1085/quick_ratios/"
+    },
+    {
+      "Company ": "ABB India",
+      "Industry": "Electric Equipment",
+      "Accessurl": "https://www.screener.in/company/ABB/",
+      "Id": "1293",
+      "ratiourl": "https://www.screener.in/api/company/1293/quick_ratios/"
+    },
+    {
+      "Company ": "havells india",
+      "Industry": "Electric Equipment",
+      "Accessurl": "https://www.screener.in/company/HAVELLS/consolidated/",
+      "Id": "6596230",
+      "ratiourl": "https://www.screener.in/api/company/6596230/quick_ratios/"
+    },
+    {
+      "Company ": "Siemens AG",
+      "Industry": "Electric Equipment",
+      "Accessurl": "https://www.screener.in/company/SIEMENS/consolidated/",
+      "Id": "6598671",
+      "ratiourl": "https://www.screener.in/api/company/6598671/quick_ratios/"
+    },
+    {
+      "Company ": "honeywell automation",
+      "Industry": "Electronics - Components",
+      "Accessurl": "https://www.screener.in/company/HONAUT/",
+      "Id": "1226",
+      "ratiourl": "https://www.screener.in/api/company/1226/quick_ratios/"
+    },
+    {
+      "Company ": "thermax",
+      "Industry": "Engineering",
+      "Accessurl": "https://www.screener.in/company/THERMAX/consolidated/",
+      "Id": "6599258",
+      "ratiourl": "https://www.screener.in/api/company/6599258/quick_ratios/"
+    },
+    {
+      "Company ": "Swaraj Engines",
+      "Industry": "Engines",
+      "Accessurl": "https://www.screener.in/company/SWARAJENG/",
+      "Id": "1532",
+      "ratiourl": "https://www.screener.in/api/company/1532/quick_ratios/"
+    },
+    {
+      "Company ": "gruh finance",
+      "Industry": "Finance - Housing",
+      "Accessurl": "https://www.screener.in/company/GRUH/",
+      "Id": "2070",
+      "ratiourl": "https://www.screener.in/api/company/2070/quick_ratios/"
+    },
+    {
+      "Company ": "Housing Develeopment Finance",
+      "Industry": "Finance - Housing",
+      "Accessurl": "https://www.screener.in/company/HDFC/consolidated/",
+      "Id": "6596408",
+      "ratiourl": "https://www.screener.in/api/company/6596408/quick_ratios/"
+    },
+    {
+      "Company ": "LIC housing finance limited",
+      "Industry": "Finance - Housing",
+      "Accessurl": "https://www.screener.in/company/LICHSGFIN/consolidated/",
+      "Id": "6597060",
+      "ratiourl": "https://www.screener.in/api/company/6597060/quick_ratios/"
+    },
+    {
+      "Company ": "Bajaj finance",
+      "Industry": "Finance & Investments",
+      "Accessurl": "https://www.screener.in/company/BAJFINANCE/consolidated/",
+      "Id": "6594851",
+      "ratiourl": "https://www.screener.in/api/company/6594851/quick_ratios/"
+    },
+    {
+      "Company ": "cholamandalam",
+      "Industry": "Finance & Investments",
+      "Accessurl": "https://www.screener.in/company/CHOLAFIN/consolidated/",
+      "Id": "6595246",
+      "ratiourl": "https://www.screener.in/api/company/6595246/quick_ratios/"
+    },
+    {
+      "Company ": "M&M finance",
+      "Industry": "Finance & Investments",
+      "Accessurl": "https://www.screener.in/company/M&MFIN/consolidated/",
+      "Id": "6599864",
+      "ratiourl": "https://www.screener.in/api/company/6599864/quick_ratios/"
+    },
+    {
+      "Company ": "shriram transport",
+      "Industry": "Finance & Investments",
+      "Accessurl": "https://www.screener.in/company/SRTRANSFIN/consolidated/",
+      "Id": "6598665",
+      "ratiourl": "https://www.screener.in/api/company/6598665/quick_ratios/"
+    },
+    {
+      "Company ": "sundaram finance",
+      "Industry": "Finance & Investments",
+      "Accessurl": "https://www.screener.in/company/SUNDARMFIN/consolidated/",
+      "Id": "6599041",
+      "ratiourl": "https://www.screener.in/api/company/6599041/quick_ratios/"
+    },
+    {
+      "Company ": "zydus wellness",
+      "Industry": "Food - Processing - Indian",
+      "Accessurl": "https://www.screener.in/company/ZYDUSWELL/consolidated/",
+      "Id": "6599849",
+      "ratiourl": "https://www.screener.in/api/company/6599849/quick_ratios/"
+    },
+    {
+      "Company ": "britannia industries",
+      "Industry": "Food - Processing - MNC",
+      "Accessurl": "https://www.screener.in/company/BRITANNIA/consolidated/",
+      "Id": "6595204",
+      "ratiourl": "https://www.screener.in/api/company/6595204/quick_ratios/"
+    },
+    {
+      "Company ": "glaxosmithkine healthcare",
+      "Industry": "Food - Processing - MNC",
+      "Accessurl": "https://www.screener.in/company/GSKCONS/",
+      "Id": "329",
+      "ratiourl": "https://www.screener.in/api/company/329/quick_ratios/"
+    },
+    {
+      "Company ": "Jubilant Foodworks",
+      "Industry": "Food - Processing - MNC",
+      "Accessurl": "https://www.screener.in/company/JUBLFOOD/consolidated/",
+      "Id": "6596817",
+      "ratiourl": "https://www.screener.in/api/company/6596817/quick_ratios/"
+    },
+    {
+      "Company ": "nestle india",
+      "Industry": "Food - Processing - MNC",
+      "Accessurl": "https://www.screener.in/company/NESTLEIND/",
+      "Id": "331",
+      "ratiourl": "https://www.screener.in/api/company/331/quick_ratios/"
+    },
+    {
+      "Company ": "dr lal pathlabs",
+      "Industry": "Healthcare",
+      "Accessurl": "https://www.screener.in/company/LALPATHLAB/consolidated/",
+      "Id": "7517231",
+      "ratiourl": "https://www.screener.in/api/company/7517231/quick_ratios/"
+    },
+    {
+      "Company ": "Thyrocare Technologies Ltd",
+      "Industry": "Healthcare",
+      "Accessurl": "https://www.screener.in/company/THYROCARE/consolidated/",
+      "Id": "9198102",
+      "ratiourl": "https://www.screener.in/api/company/9198102/quick_ratios/"
+    },
+    {
+      "Company ": "Mahindra holidays",
+      "Industry": "Hotels",
+      "Accessurl": "https://www.screener.in/company/MHRIL/consolidated/",
+      "Id": "6597231",
+      "ratiourl": "https://www.screener.in/api/company/6597231/quick_ratios/"
+    },
+    {
+      "Company ": "bata industries",
+      "Industry": "Leather / Leather Products",
+      "Accessurl": "https://www.screener.in/company/BATAINDIA/consolidated/",
+      "Id": "6595002",
+      "ratiourl": "https://www.screener.in/api/company/6595002/quick_ratios/"
+    },
+    {
+      "Company ": "relaxo footwears ltd",
+      "Industry": "Leather / Leather Products",
+      "Accessurl": "https://www.screener.in/company/RELAXO/",
+      "Id": "3182",
+      "ratiourl": "https://www.screener.in/api/company/3182/quick_ratios/"
+    },
+    {
+      "Company ": "crisil",
+      "Industry": "Miscellaneous",
+      "Accessurl": "https://www.screener.in/company/CRISIL/consolidated/",
+      "Id": "6595428",
+      "ratiourl": "https://www.screener.in/api/company/6595428/quick_ratios/"
+    },
+    {
+      "Company ": "gujarat gas co",
+      "Industry": "Miscellaneous",
+      "Accessurl": "https://www.screener.in/company/GUJGASLTD/consolidated/",
+      "Id": "11156843",
+      "ratiourl": "https://www.screener.in/api/company/11156843/quick_ratios/"
+    },
+    {
+      "Company ": "ICRA",
+      "Industry": "Miscellaneous",
+      "Accessurl": "https://www.screener.in/company/ICRA/consolidated/",
+      "Id": "6596414",
+      "ratiourl": "https://www.screener.in/api/company/6596414/quick_ratios/"
+    },
+    {
+      "Company ": "Indraprastha gas",
+      "Industry": "Miscellaneous",
+      "Accessurl": "https://www.screener.in/company/IGL/consolidated/",
+      "Id": "11087924",
+      "ratiourl": "https://www.screener.in/api/company/11087924/quick_ratios/"
+    },
+    {
+      "Company ": "Asian Paints",
+      "Industry": "Paints / Varnishes",
+      "Accessurl": "https://www.screener.in/company/ASIANPAINT/consolidated/",
+      "Id": "6594812",
+      "ratiourl": "https://www.screener.in/api/company/6594812/quick_ratios/"
+    },
+    {
+      "Company ": "berger paints",
+      "Industry": "Paints / Varnishes",
+      "Accessurl": "https://www.screener.in/company/BERGEPAINT/consolidated/",
+      "Id": "6595011",
+      "ratiourl": "https://www.screener.in/api/company/6595011/quick_ratios/"
+    },
+    {
+      "Company ": "kansai nerolac painsts",
+      "Industry": "Paints / Varnishes",
+      "Accessurl": "https://www.screener.in/company/KANSAINER/consolidated/",
+      "Id": "6596842",
+      "ratiourl": "https://www.screener.in/api/company/6596842/quick_ratios/"
+    },
+    {
+      "Company ": "Dabur India",
+      "Industry": "Personal Care - Indian",
+      "Accessurl": "https://www.screener.in/company/DABUR/consolidated/",
+      "Id": "6595437",
+      "ratiourl": "https://www.screener.in/api/company/6595437/quick_ratios/"
+    },
+    {
+      "Company ": "emami",
+      "Industry": "Personal Care - Indian",
+      "Accessurl": "https://www.screener.in/company/EMAMILTD/consolidated/",
+      "Id": "6595652",
+      "ratiourl": "https://www.screener.in/api/company/6595652/quick_ratios/"
+    },
+    {
+      "Company ": "Marico",
+      "Industry": "Personal Care - Indian",
+      "Accessurl": "https://www.screener.in/company/MARICO/consolidated/",
+      "Id": "6597246",
+      "ratiourl": "https://www.screener.in/api/company/6597246/quick_ratios/"
+    },
+    {
+      "Company ": "Colgate palmolive",
+      "Industry": "Personal Care - Multinational",
+      "Accessurl": "https://www.screener.in/company/COLPAL/",
+      "Id": "895",
+      "ratiourl": "https://www.screener.in/api/company/895/quick_ratios/"
+    },
+    {
+      "Company ": "hindustan unilever",
+      "Industry": "Personal Care - Multinational",
+      "Accessurl": "https://www.screener.in/company/HINDUNILVR/consolidated/",
+      "Id": "6596263",
+      "ratiourl": "https://www.screener.in/api/company/6596263/quick_ratios/"
+    },
+    {
+      "Company ": "P&G",
+      "Industry": "Personal Care - Multinational",
+      "Accessurl": "https://www.screener.in/company/PGHH/",
+      "Id": "902",
+      "ratiourl": "https://www.screener.in/api/company/902/quick_ratios/"
+    },
+    {
+      "Company ": "Divis Labs",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs",
+      "Accessurl": "https://www.screener.in/company/DIVISLAB/consolidated/",
+      "Id": "6595613",
+      "ratiourl": "https://www.screener.in/api/company/6595613/quick_ratios/"
+    },
+    {
+      "Company ": "Lupin",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs",
+      "Accessurl": "https://www.screener.in/company/LUPIN/consolidated/",
+      "Id": "6597210",
+      "ratiourl": "https://www.screener.in/api/company/6597210/quick_ratios/"
+    },
+    {
+      "Company ": "Cadila Healthcare",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+      "Accessurl": "https://www.screener.in/company/CADILAHC/consolidated/",
+      "Id": "6595210",
+      "ratiourl": "https://www.screener.in/api/company/6595210/quick_ratios/"
+    },
+    {
+      "Company ": "cipla",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+      "Accessurl": "https://www.screener.in/company/CIPLA/consolidated/",
+      "Id": "6595253",
+      "ratiourl": "https://www.screener.in/api/company/6595253/quick_ratios/"
+    },
+    {
+      "Company ": "Dr.Reddy Labs",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+      "Accessurl": "https://www.screener.in/company/DRREDDY/consolidated/",
+      "Id": "6595620",
+      "ratiourl": "https://www.screener.in/api/company/6595620/quick_ratios/"
+    },
+    {
+      "Company ": "IPCA Laboratories",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+      "Accessurl": "https://www.screener.in/company/IPCALAB/consolidated/",
+      "Id": "6596621",
+      "ratiourl": "https://www.screener.in/api/company/6596621/quick_ratios/"
+    },
+    {
+      "Company ": "Sun Pharma",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+      "Accessurl": "https://www.screener.in/company/SUNPHARMA/consolidated/",
+      "Id": "6599038",
+      "ratiourl": "https://www.screener.in/api/company/6599038/quick_ratios/"
+    },
+    {
+      "Company ": "syngen international ltd",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+      "Accessurl": "https://www.screener.in/company/SYNGENE/",
+      "Id": "6583191",
+      "ratiourl": "https://www.screener.in/api/company/6583191/quick_ratios/"
+    },
+    {
+      "Company ": "torrent pharma",
+      "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+      "Accessurl": "https://www.screener.in/company/TORNTPHARM/consolidated/",
+      "Id": "6599278",
+      "ratiourl": "https://www.screener.in/api/company/6599278/quick_ratios/"
+    },
+    {
+      "Company ": "ajanta pharma",
+      "Industry": "Pharmaceuticals - Indian - Formulations",
+      "Accessurl": "https://www.screener.in/company/AJANTPHARM/consolidated/",
+      "Id": "6594451",
+      "ratiourl": "https://www.screener.in/api/company/6594451/quick_ratios/"
+    },
+    {
+      "Company ": "Eris Lifesciences",
+      "Industry": "Pharmaceuticals - Indian - Formulations",
+      "Accessurl": "https://www.screener.in/company/ERIS/consolidated/",
+      "Id": "15460179",
+      "ratiourl": "https://www.screener.in/api/company/15460179/quick_ratios/"
+    },
+    {
+      "Company ": "Abbott India",
+      "Industry": "Pharmaceuticals - Multinational",
+      "Accessurl": "https://www.screener.in/company/ABBOTINDIA/",
+      "Id": "927",
+      "ratiourl": "https://www.screener.in/api/company/927/quick_ratios/"
+    },
+    {
+      "Company ": "supreme industries",
+      "Industry": "Plastics Products",
+      "Accessurl": "https://www.screener.in/company/SUPREMEIND/consolidated/",
+      "Id": "6599053",
+      "ratiourl": "https://www.screener.in/api/company/6599053/quick_ratios/"
+    },
+    {
+      "Company ": "Wonderla Holidays Ltd",
+      "Industry": "Recreation / Amusement Parks",
+      "Accessurl": "https://www.screener.in/company/WONDERLA/",
+      "Id": "1895342",
+      "ratiourl": "https://www.screener.in/api/company/1895342/quick_ratios/"
+    },
+    {
+      "Company ": "bharat petroleum",
+      "Industry": "Refineries",
+      "Accessurl": "https://www.screener.in/company/BPCL/consolidated/",
+      "Id": "6595020",
+      "ratiourl": "https://www.screener.in/api/company/6595020/quick_ratios/"
+    },
+    {
+      "Company ": "Orient Reractories ltd",
+      "Industry": "Refractories / Intermediates",
+      "Accessurl": "https://www.screener.in/company/ORIENTREF/",
+      "Id": "3738",
+      "ratiourl": "https://www.screener.in/api/company/3738/quick_ratios/"
+    },
+    {
+      "Company ": "Vesuvius India",
+      "Industry": "Refractories / Intermediates",
+      "Accessurl": "https://www.screener.in/company/VESUVIUS/",
+      "Id": "2327",
+      "ratiourl": "https://www.screener.in/api/company/2327/quick_ratios/"
+    },
+    {
+      "Company ": "Page Industries",
+      "Industry": "Textiles - Products",
+      "Accessurl": "https://www.screener.in/company/PAGEIND/",
+      "Id": "3073",
+      "ratiourl": "https://www.screener.in/api/company/3073/quick_ratios/"
+    },
+    {
+      "Company ": "Avenue supermart",
+      "Industry": "Trading",
+      "Accessurl": "https://www.screener.in/company/DMART/consolidated/",
+      "Id": "13798724",
+      "ratiourl": "https://www.screener.in/api/company/13798724/quick_ratios/"
+    },
+    {
+      "Company ": "Trent",
+      "Industry": "Trading",
+      "Accessurl": "https://www.screener.in/company/TRENT/consolidated/",
+      "Id": "6599419",
+      "ratiourl": "https://www.screener.in/api/company/6599419/quick_ratios/"
+    },
+    {
+      "Company ": "v mart retail ltd",
+      "Industry": "Trading",
+      "Accessurl": "https://www.screener.in/company/VMART/",
+      "Id": "175110",
+      "ratiourl": "https://www.screener.in/api/company/175110/quick_ratios/"
+    },
+    {
+      "Company ": "Balkrishna Industries",
+      "Industry": "Tyres",
+      "Accessurl": "https://www.screener.in/company/BALKRISIND/consolidated/",
+      "Id": "6594860",
+      "ratiourl": "https://www.screener.in/api/company/6594860/quick_ratios/"
+    }
+  ]
+}

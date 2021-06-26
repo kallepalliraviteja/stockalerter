@@ -1,0 +1,482 @@
+{
+    "Companies": [
+        {
+            "Company ": "Amara Raja batteries",
+            "Industry": "Auto Ancillaries",
+            "Accessurl": "https://www.screener.in/company/AMARAJABAT/"
+        },
+        {
+            "Company ": "bosch",
+            "Industry": "Auto Ancillaries",
+            "Accessurl": "https://www.screener.in/company/BOSCHLTD/"
+        },
+        {
+            "Company ": "Exide Industries",
+            "Industry": "Auto Ancillaries",
+            "Accessurl": "https://www.screener.in/company/EXIDEIND/consolidated/"
+        },
+        {
+            "Company ": "mothersun sumi systems",
+            "Industry": "Auto Ancillaries",
+            "Accessurl": "https://www.screener.in/company/MOTHERSUMI/consolidated/"
+        },
+        {
+            "Company ": "Suprajit Engineering Ltd",
+            "Industry": "Auto Ancillaries",
+            "Accessurl": "https://www.screener.in/company/SUPRAJIT/consolidated/"
+        },
+        {
+            "Company ": "WABCO india",
+            "Industry": "Auto Ancillaries",
+            "Accessurl": "https://www.screener.in/company/WABCOINDIA/"
+        },
+        {
+            "Company ": "eicher motors",
+            "Industry": "Automobiles - Motorcycles / Mopeds",
+            "Accessurl": "https://www.screener.in/company/EICHERMOT/consolidated/"
+        },
+        {
+            "Company ": "M&M",
+            "Industry": "Automobiles - Passenger Cars",
+            "Accessurl": "https://www.screener.in/company/M&M/consolidated/"
+        },
+        {
+            "Company ": "maruti suzuki",
+            "Industry": "Automobiles - Passenger Cars",
+            "Accessurl": "https://www.screener.in/company/MARUTI/consolidated/"
+        },
+        {
+            "Company ": "bajaj auto",
+            "Industry": "Automobiles - Scooters And 3 - Wheelers",
+            "Accessurl": "https://www.screener.in/company/BAJAJ-AUTO/consolidated/"
+        },
+        {
+            "Company ": "Axis Bank",
+            "Industry": "Banks - Private Sector",
+            "Accessurl": "https://www.screener.in/company/AXISBANK/consolidated/"
+        },
+        {
+            "Company ": "city union banks",
+            "Industry": "Banks - Private Sector",
+            "Accessurl": "https://www.screener.in/company/CUB/"
+        },
+        {
+            "Company ": "HDFC Bank",
+            "Industry": "Banks - Private Sector",
+            "Accessurl": "https://www.screener.in/company/HDFCBANK/consolidated/"
+        },
+        {
+            "Company ": "ICICI Bank",
+            "Industry": "Banks - Private Sector",
+            "Accessurl": "https://www.screener.in/company/ICICIBANK/consolidated/"
+        },
+        {
+            "Company ": "Induslnd Bank",
+            "Industry": "Banks - Private Sector",
+            "Accessurl": "https://www.screener.in/company/INDUSINDBK/"
+        },
+        {
+            "Company ": "Kotak Mahindra Bank",
+            "Industry": "Banks - Private Sector",
+            "Accessurl": "https://www.screener.in/company/KOTAKBANK/consolidated/"
+        },
+        {
+            "Company ": "sbi",
+            "Industry": "Banks - Public Sector",
+            "Accessurl": "https://www.screener.in/company/SBIN/consolidated/"
+        },
+        {
+            "Company ": "Schaffler India",
+            "Industry": "Bearings",
+            "Accessurl": "https://www.screener.in/company/SCHAEFFLER/"
+        },
+        {
+            "Company ": "united spirits",
+            "Industry": "Breweries & Distilleries",
+            "Accessurl": "https://www.screener.in/company/MCDOWELL-N/consolidated/"
+        },
+        {
+            "Company ": "AIA Engineering",
+            "Industry": "Castings & Forgings",
+            "Accessurl": "https://www.screener.in/company/AIAENG/consolidated/"
+        },
+        {
+            "Company ": "ACC",
+            "Industry": "Cement - North India",
+            "Accessurl": "https://www.screener.in/company/ACC/consolidated/"
+        },
+        {
+            "Company ": "Ambuja Cements",
+            "Industry": "Cement - North India",
+            "Accessurl": "https://www.screener.in/company/AMBUJACEM/consolidated/"
+        },
+        {
+            "Company ": "Shree Cements",
+            "Industry": "Cement - North India",
+            "Accessurl": "https://www.screener.in/company/SHREECEM/consolidated/"
+        },
+        {
+            "Company ": "The Ramco Cementes",
+            "Industry": "Cement - South India",
+            "Accessurl": "https://www.screener.in/company/RAMCOCEM/consolidated/"
+        },
+        {
+            "Company ": "Oriental Chemicals",
+            "Industry": "Chemicals",
+            "Accessurl": "https://www.screener.in/company/OCCL/consolidated/"
+        },
+        {
+            "Company ": "pidilite industries",
+            "Industry": "Chemicals",
+            "Accessurl": "https://www.screener.in/company/PIDILITIND/consolidated/"
+        },
+        {
+            "Company ": "ITC",
+            "Industry": "Cigarettes",
+            "Accessurl": "https://www.screener.in/company/ITC/consolidated/"
+        },
+        {
+            "Company ": "infosys",
+            "Industry": "Computers - Software - Large",
+            "Accessurl": "https://www.screener.in/company/INFY/consolidated/"
+        },
+        {
+            "Company ": "TCS",
+            "Industry": "Computers - Software - Large",
+            "Accessurl": "https://www.screener.in/company/TCS/consolidated/"
+        },
+        {
+            "Company ": "cyient ltd-b",
+            "Industry": "Computers - Software - Medium / Small",
+            "Accessurl": "https://www.screener.in/company/CYIENT/consolidated/"
+        },
+        {
+            "Company ": "Oracle",
+            "Industry": "Computers - Software - Medium / Small",
+            "Accessurl": "https://www.screener.in/company/OFSS/consolidated/"
+        },
+        {
+            "Company ": "Titan Company",
+            "Industry": "Diamond Cutting / Jewellery",
+            "Accessurl": "https://www.screener.in/company/TITAN/consolidated/"
+        },
+        {
+            "Company ": "Quess Corp",
+            "Industry": "Diversified - Large",
+            "Accessurl": "https://www.screener.in/company/QUESS/consolidated/"
+        },
+        {
+            "Company ": "Voltas",
+            "Industry": "Diversified - Mega",
+            "Accessurl": "https://www.screener.in/company/VOLTAS/consolidated/"
+        },
+        {
+            "Company ": "Symphoney Ltd",
+            "Industry": "Domestic Appliances",
+            "Accessurl": "https://www.screener.in/company/SYMPHONY/consolidated/"
+        },
+        {
+            "Company ": "ttk prestige",
+            "Industry": "Domestic Appliances",
+            "Accessurl": "https://www.screener.in/company/TTKPRESTIG/"
+        },
+        {
+            "Company ": "ABB India",
+            "Industry": "Electric Equipment",
+            "Accessurl": "https://www.screener.in/company/ABB/"
+        },
+        {
+            "Company ": "havells india",
+            "Industry": "Electric Equipment",
+            "Accessurl": "https://www.screener.in/company/HAVELLS/consolidated/"
+        },
+        {
+            "Company ": "Siemens AG",
+            "Industry": "Electric Equipment",
+            "Accessurl": "https://www.screener.in/company/SIEMENS/consolidated/"
+        },
+        {
+            "Company ": "honeywell automation",
+            "Industry": "Electronics - Components",
+            "Accessurl": "https://www.screener.in/company/HONAUT/"
+        },
+        {
+            "Company ": "thermax",
+            "Industry": "Engineering",
+            "Accessurl": "https://www.screener.in/company/THERMAX/consolidated/"
+        },
+        {
+            "Company ": "Swaraj Engines",
+            "Industry": "Engines",
+            "Accessurl": "https://www.screener.in/company/SWARAJENG/"
+        },
+        {
+            "Company ": "gruh finance",
+            "Industry": "Finance - Housing",
+            "Accessurl": "https://www.screener.in/company/GRUH/"
+        },
+        {
+            "Company ": "Housing Develeopment Finance",
+            "Industry": "Finance - Housing",
+            "Accessurl": "https://www.screener.in/company/HDFC/consolidated/"
+        },
+        {
+            "Company ": "LIC housing finance limited",
+            "Industry": "Finance - Housing",
+            "Accessurl": "https://www.screener.in/company/LICHSGFIN/consolidated/"
+        },
+        {
+            "Company ": "Bajaj finance",
+            "Industry": "Finance & Investments",
+            "Accessurl": "https://www.screener.in/company/BAJFINANCE/consolidated/"
+        },
+        {
+            "Company ": "cholamandalam",
+            "Industry": "Finance & Investments",
+            "Accessurl": "https://www.screener.in/company/CHOLAFIN/consolidated/"
+        },
+        {
+            "Company ": "M&M finance",
+            "Industry": "Finance & Investments",
+            "Accessurl": "https://www.screener.in/company/M&MFIN/consolidated/"
+        },
+        {
+            "Company ": "shriram transport",
+            "Industry": "Finance & Investments",
+            "Accessurl": "https://www.screener.in/company/SRTRANSFIN/consolidated/"
+        },
+        {
+            "Company ": "sundaram finance",
+            "Industry": "Finance & Investments",
+            "Accessurl": "https://www.screener.in/company/SUNDARMFIN/consolidated/"
+        },
+        {
+            "Company ": "zydus wellness",
+            "Industry": "Food - Processing - Indian",
+            "Accessurl": "https://www.screener.in/company/ZYDUSWELL/consolidated/"
+        },
+        {
+            "Company ": "britannia industries",
+            "Industry": "Food - Processing - MNC",
+            "Accessurl": "https://www.screener.in/company/BRITANNIA/consolidated/"
+        },
+        {
+            "Company ": "glaxosmithkine healthcare",
+            "Industry": "Food - Processing - MNC",
+            "Accessurl": "https://www.screener.in/company/GSKCONS/"
+        },
+        {
+            "Company ": "Jubilant Foodworks",
+            "Industry": "Food - Processing - MNC",
+            "Accessurl": "https://www.screener.in/company/JUBLFOOD/consolidated/"
+        },
+        {
+            "Company ": "nestle india",
+            "Industry": "Food - Processing - MNC",
+            "Accessurl": "https://www.screener.in/company/NESTLEIND/"
+        },
+        {
+            "Company ": "dr lal pathlabs",
+            "Industry": "Healthcare",
+            "Accessurl": "https://www.screener.in/company/LALPATHLAB/consolidated/"
+        },
+        {
+            "Company ": "Thyrocare Technologies Ltd",
+            "Industry": "Healthcare",
+            "Accessurl": "https://www.screener.in/company/THYROCARE/consolidated/"
+        },
+        {
+            "Company ": "Mahindra holidays",
+            "Industry": "Hotels",
+            "Accessurl": "https://www.screener.in/company/MHRIL/consolidated/"
+        },
+        {
+            "Company ": "bata industries",
+            "Industry": "Leather / Leather Products",
+            "Accessurl": "https://www.screener.in/company/BATAINDIA/consolidated/"
+        },
+        {
+            "Company ": "relaxo footwears ltd",
+            "Industry": "Leather / Leather Products",
+            "Accessurl": "https://www.screener.in/company/RELAXO/"
+        },
+        {
+            "Company ": "crisil",
+            "Industry": "Miscellaneous",
+            "Accessurl": "https://www.screener.in/company/CRISIL/consolidated/"
+        },
+        {
+            "Company ": "gujarat gas co",
+            "Industry": "Miscellaneous",
+            "Accessurl": "https://www.screener.in/company/GUJGASLTD/consolidated/"
+        },
+        {
+            "Company ": "ICRA",
+            "Industry": "Miscellaneous",
+            "Accessurl": "https://www.screener.in/company/ICRA/consolidated/"
+        },
+        {
+            "Company ": "Indraprastha gas",
+            "Industry": "Miscellaneous",
+            "Accessurl": "https://www.screener.in/company/IGL/consolidated/"
+        },
+        {
+            "Company ": "Asian Paints",
+            "Industry": "Paints / Varnishes",
+            "Accessurl": "https://www.screener.in/company/ASIANPAINT/consolidated/"
+        },
+        {
+            "Company ": "berger paints",
+            "Industry": "Paints / Varnishes",
+            "Accessurl": "https://www.screener.in/company/BERGEPAINT/consolidated/"
+        },
+        {
+            "Company ": "kansai nerolac painsts",
+            "Industry": "Paints / Varnishes",
+            "Accessurl": "https://www.screener.in/company/KANSAINER/consolidated/"
+        },
+        {
+            "Company ": "Dabur India",
+            "Industry": "Personal Care - Indian",
+            "Accessurl": "https://www.screener.in/company/DABUR/consolidated/"
+        },
+        {
+            "Company ": "emami",
+            "Industry": "Personal Care - Indian",
+            "Accessurl": "https://www.screener.in/company/EMAMILTD/consolidated/"
+        },
+        {
+            "Company ": "Marico",
+            "Industry": "Personal Care - Indian",
+            "Accessurl": "https://www.screener.in/company/MARICO/consolidated/"
+        },
+        {
+            "Company ": "Colgate palmolive",
+            "Industry": "Personal Care - Multinational",
+            "Accessurl": "https://www.screener.in/company/COLPAL/"
+        },
+        {
+            "Company ": "hindustan unilever",
+            "Industry": "Personal Care - Multinational",
+            "Accessurl": "https://www.screener.in/company/HINDUNILVR/consolidated/"
+        },
+        {
+            "Company ": "P&G",
+            "Industry": "Personal Care - Multinational",
+            "Accessurl": "https://www.screener.in/company/PGHH/"
+        },
+        {
+            "Company ": "Divis Labs",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs",
+            "Accessurl": "https://www.screener.in/company/DIVISLAB/consolidated/"
+        },
+        {
+            "Company ": "Lupin",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs",
+            "Accessurl": "https://www.screener.in/company/LUPIN/consolidated/"
+        },
+        {
+            "Company ": "Cadila Healthcare",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+            "Accessurl": "https://www.screener.in/company/CADILAHC/consolidated/"
+        },
+        {
+            "Company ": "cipla",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+            "Accessurl": "https://www.screener.in/company/CIPLA/consolidated/"
+        },
+        {
+            "Company ": "Dr.Reddy Labs",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+            "Accessurl": "https://www.screener.in/company/DRREDDY/consolidated/"
+        },
+        {
+            "Company ": "IPCA Laboratories",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+            "Accessurl": "https://www.screener.in/company/IPCALAB/consolidated/"
+        },
+        {
+            "Company ": "Sun Pharma",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+            "Accessurl": "https://www.screener.in/company/SUNPHARMA/consolidated/"
+        },
+        {
+            "Company ": "syngen international ltd",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+            "Accessurl": "https://www.screener.in/company/SYNGENE/"
+        },
+        {
+            "Company ": "torrent pharma",
+            "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+            "Accessurl": "https://www.screener.in/company/TORNTPHARM/consolidated/"
+        },
+        {
+            "Company ": "ajanta pharma",
+            "Industry": "Pharmaceuticals - Indian - Formulations",
+            "Accessurl": "https://www.screener.in/company/AJANTPHARM/consolidated/"
+        },
+        {
+            "Company ": "Eris Lifesciences",
+            "Industry": "Pharmaceuticals - Indian - Formulations",
+            "Accessurl": "https://www.screener.in/company/ERIS/consolidated/"
+        },
+        {
+            "Company ": "Abbott India",
+            "Industry": "Pharmaceuticals - Multinational",
+            "Accessurl": "https://www.screener.in/company/ABBOTINDIA/"
+        },
+        {
+            "Company ": "supreme industries",
+            "Industry": "Plastics Products",
+            "Accessurl": "https://www.screener.in/company/SUPREMEIND/consolidated/"
+        },
+        {
+            "Company ": "Wonderla Holidays Ltd",
+            "Industry": "Recreation / Amusement Parks",
+            "Accessurl": "https://www.screener.in/company/WONDERLA/"
+        },
+        {
+            "Company ": "bharat petroleum",
+            "Industry": "Refineries",
+            "Accessurl": "https://www.screener.in/company/BPCL/consolidated/"
+        },
+        {
+            "Company ": "Orient Reractories ltd",
+            "Industry": "Refractories / Intermediates",
+            "Accessurl": "https://www.screener.in/company/ORIENTREF/"
+        },
+        {
+            "Company ": "Vesuvius India",
+            "Industry": "Refractories / Intermediates",
+            "Accessurl": "https://www.screener.in/company/VESUVIUS/"
+        },
+        {
+            "Company ": "Page Industries",
+            "Industry": "Textiles - Products",
+            "Accessurl": "https://www.screener.in/company/PAGEIND/"
+        },
+        {
+            "Company ": "Avenue supermart",
+            "Industry": "Trading",
+            "Accessurl": "https://www.screener.in/company/DMART/consolidated/"
+        },
+        {
+            "Company ": "Trent",
+            "Industry": "Trading",
+            "Accessurl": "https://www.screener.in/company/TRENT/consolidated/"
+        },
+        {
+            "Company ": "v mart retail ltd",
+            "Industry": "Trading",
+            "Accessurl": "https://www.screener.in/company/VMART/"
+        },
+        {
+            "Company ": "Balkrishna Industries",
+            "Industry": "Tyres",
+            "Accessurl": "https://www.screener.in/company/BALKRISIND/consolidated/"
+        }
+    ],
+    "URL":"",
+    "MagicRatio":"",
+    "Email":"kallepalliraviteja@gmail.com"
+}
